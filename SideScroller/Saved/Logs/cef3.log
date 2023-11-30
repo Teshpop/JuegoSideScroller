@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [1122/203125.229:ERROR:backend_impl.cc(1041)] Critical error found -8
 [1122/203125.230:ERROR:entry_impl.cc(1075)] No file for c1030002
 [1122/203125.230:WARNING:storage_block-inl.h(146)] Failed data load.
@@ -15,3 +16,6 @@
 [1122/203125.236:WARNING:storage_block-inl.h(146)] Failed data load.
 [1122/203127.434:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 7
 [1122/203324.710:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+=======
+[1129/101956.057:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+>>>>>>> Arte
