@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/GitHub repositorios/JuegoSideScroller/SideScroller/Content/Enemies/BP_Torreta.uasset",
+				"E:/GitHub repositorios/JuegoSideScroller/SideScroller/Content/Movement/Player/BP_Player.uasset",
+				"E:/GitHub repositorios/JuegoSideScroller/SideScroller/Content/__ExternalActors__/Levels/testing/2/53/453Z9U85O4Q0IX2ILTA4XL.uasset",
+				"E:/GitHub repositorios/JuegoSideScroller/SideScroller/Content/__ExternalActors__/Levels/testing/1/KY/RTDASBIH0SOQQRYT9FIAZ2.uasset",
+				"E:/GitHub repositorios/JuegoSideScroller/SideScroller/Content/__ExternalActors__/Levels/testing/D/3T/D58JTVSQGHOZWZ31AICP1W.uasset",
+				"E:/GitHub repositorios/JuegoSideScroller/SideScroller/Content/__ExternalActors__/Levels/testing/8/P1/49IF9OTERVW3Q5YPM7PDMJ.uasset",
+				"E:/GitHub repositorios/JuegoSideScroller/SideScroller/Content/Enemies/BP_Bullet.uasset",
 				"D:/Documentos/UNREAL/JuegoSideScroller/SideScroller/Content/__ExternalActors__/Levels/testing/9/KZ/3Y086927S7DJ7UXTIKQZXQ.uasset",
 				"D:/Documentos/UNREAL/JuegoSideScroller/SideScroller/Content/assets/Modelos_3D/TXT_Sword.uasset",
 				"D:/Documentos/UNREAL/JuegoSideScroller/SideScroller/Content/Enemies/BP_Torreta.uasset",
