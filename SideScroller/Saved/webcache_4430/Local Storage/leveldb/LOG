@@ -1,2 +1,3 @@
-2023/11/29-10:17:58.523 1afc8 Creating DB C:/Github/JuegoSideScroller/JuegoSideScroller/SideScroller/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2023/11/29-10:17:58.581 1afc8 Reusing MANIFEST C:/Github/JuegoSideScroller/JuegoSideScroller/SideScroller/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/12/05-20:09:25.999 22c8 Reusing MANIFEST C:/Github/JuegoSideScroller/JuegoSideScroller/SideScroller/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/12/05-20:09:26.006 22c8 Recovering log #3
+2023/12/05-20:09:26.057 22c8 Reusing old log C:/Github/JuegoSideScroller/JuegoSideScroller/SideScroller/Saved/webcache_4430\Local Storage\leveldb/000003.log 
