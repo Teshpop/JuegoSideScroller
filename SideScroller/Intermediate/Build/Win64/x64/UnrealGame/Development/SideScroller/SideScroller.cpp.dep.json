@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\documentos\\unreal\\juegosidescroller\\sidescroller\\intermediate\\source\\sidescroller.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\documentos\\unreal\\juegosidescroller\\sidescroller\\intermediate\\build\\win64\\x64\\sidescroller\\development\\core\\sharedpch.core.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\documentos\\unreal\\juegosidescroller\\sidescroller\\intermediate\\build\\win64\\x64\\unrealgame\\development\\sidescroller\\definitions.sidescroller.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
