@@ -5,12 +5,22 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Proyecto3erP/JuegoSideScroller/SideScroller/Content/assets/Knight/Enemy-Ghost/PM3D_Cone3D2.uasset",
+				"D:/Proyecto3erP/JuegoSideScroller/SideScroller/Content/__ExternalActors__/Levels/testing/A/C3/KYIPVENG7ZLNECDBR708NX.uasset",
+				"D:/Proyecto3erP/JuegoSideScroller/SideScroller/Content/__ExternalActors__/Levels/testing/7/W4/MW5DTW2T1IWEQFWBN4K4K9.uasset",
+				"D:/Proyecto3erP/JuegoSideScroller/SideScroller/Content/assets/Knight/Enemy-Ghost/PhantomLP.uasset",
+				"D:/Proyecto3erP/JuegoSideScroller/SideScroller/Content/assets/Knight/Enemy-Ghost/PhantomLP_PhysicsAsset.uasset",
+				"D:/Proyecto3erP/JuegoSideScroller/SideScroller/Content/assets/Knight/Enemy-Ghost/PhantomLP_Skeleton.uasset",
+				"D:/Proyecto3erP/JuegoSideScroller/SideScroller/Content/assets/Knight/Enemy-Ghost/RGB.uasset",
+				"D:/Proyecto3erP/JuegoSideScroller/SideScroller/Content/assets/Knight/Enemy-Ghost/RGB_1.uasset",
+				"D:/Proyecto3erP/JuegoSideScroller/SideScroller/Content/assets/Knight/Enemy-Ghost/RGB_Alpha.uasset",
 				"D:/Documentos/UNREAL/JuegoSideScroller/SideScroller/Content/__ExternalActors__/Levels/testing/1/0I/MBPC8GN7QMNFCVXVM5MXBI.uasset",
 				"D:/Documentos/UNREAL/JuegoSideScroller/SideScroller/Content/Movement/Player/BP_Sword.uasset",
 				"D:/Documentos/UNREAL/JuegoSideScroller/SideScroller/Content/__ExternalActors__/Levels/testing/D/3T/D58JTVSQGHOZWZ31AICP1W.uasset",
 				"D:/Documentos/UNREAL/JuegoSideScroller/SideScroller/Content/Enemies/disparo_rayo_laser_audio.uasset",
 				"D:/Documentos/UNREAL/JuegoSideScroller/SideScroller/Content/Enemies/Shotgun__One-Shot__Sound_Effect_-_Video_Game_SFX.uasset",
 				"D:/Documentos/UNREAL/JuegoSideScroller/SideScroller/Content/Movement/Player/BP_Player.uasset",
+<<<<<<< HEAD
 				"D:/Documentos/UNREAL/JuegoSideScroller/SideScroller/Content/Movement/PlayerTest/UW_HUD.uasset",
 				"D:/Documentos/UNREAL/JuegoSideScroller/SideScroller/Content/Movement/Player/BP_Crossbow.uasset",
 				"D:/Documentos/UNREAL/JuegoSideScroller/SideScroller/Content/assets/Modelos_3D/Barril.uasset",
@@ -260,6 +270,9 @@
 				"E:/GitHub repositorios/JuegoSideScroller/SideScroller/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/CM/F39O5NIM70JQY379R1TPVC.uasset",
 				"E:/GitHub repositorios/JuegoSideScroller/SideScroller/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/BY/YT97BJWXOG8K0WRBZIJJLZ.uasset",
 				"D:/Documentos/UNREAL/JuegoSideScroller/SideScroller/Content/__ExternalActors__/Levels/testing/0/RT/SAB1D2AVOC8GSOQGH0PI9Z.uasset"
+=======
+				"D:/Documentos/UNREAL/JuegoSideScroller/SideScroller/Content/Movement/PlayerTest/UW_HUD.uasset"
+>>>>>>> 6f1c5ce954cede4c53e2fcf2c0e7e116555b099d
 			]
 		}
 	]
